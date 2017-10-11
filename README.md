@@ -1,6 +1,11 @@
 # Conduta
 Construção coletiva do manual de conduta do Dev Paraná, estamos abertos a receber propostas de alteração e adições neste manual.
 
+## Como contribuir
+
+Faça a alteração desejada e abra um pull request para o repositório principal.
+Discussões sobre a alteração / proposta serão discutidas nos comentários do pull request, desta forma se tornam públicos e documentados.
+
 ## Versão simplificada
 
 O Dev Paraná é uma comunidade dedicada a oferecer um ambiente livre de assédio para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela) ou escolhas de tecnologias.
