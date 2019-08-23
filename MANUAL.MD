@@ -77,7 +77,7 @@ Se um membro da comunidade se envolver em um comportamento inaceitável, os orga
 
 ### 6. Diretrizes para Reportar
 
-Se você estiver sujeito ou testemunhar um comportamento inaceitável ou tiver outras preocupações, notifique o organizador da comunidade o quanto antes. [Membros](https://github.com/orgs/DeveloperParana/people)
+Se você estiver sujeito ou testemunhar um comportamento inaceitável ou tiver outras preocupações, notifique o organizador da comunidade o quanto antes. [Membros](https://github.com/orgs/DeveloperParana/people) - [E-mail](contato@devparana.org)
 
 Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se engajarem com a aplicação da lei local ou, de outra forma, ajudar aqueles que experimentam um comportamento inaceitável a se sentirem seguros. No contexto de eventos em pessoa, os organizadores também fornecerão acompanhantes conforme desejado pela pessoa que está passando por dificuldades.
 
