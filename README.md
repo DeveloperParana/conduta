@@ -50,7 +50,7 @@ Os seguintes comportamentos são esperados e solicitados de todos os membros da 
 Os comportamentos a seguir são considerados assédio e são inaceitáveis em nossa comunidade:
 
 * Violência, ameaças de violência ou linguagem violenta dirigida contra outra pessoa.
-* Piadas e linguagem sexistas, racistas, homofóbicas, transfóbicas, capazes ou de outra forma discriminatórias.
+* Piadas e linguagem sexistas, racistas, homofóbicas, transfóbicas, capacitistas ou de outra forma discriminatórias.
 * Postar ou exibir material sexualmente explícito ou violento.
 * Postar ou ameaçar postar informações de identificação pessoal de outras pessoas ("doxing").
 * Insultos pessoais, particularmente aqueles relacionados a gênero, orientação sexual, raça, religião ou deficiência.
