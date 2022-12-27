@@ -93,7 +93,7 @@ Além disso, os organizadores da comunidade estão disponíveis para ajudar os m
 
 ### 7. Concluindo
 
-Esperamos que todos os participantes da comunidade (contribuintes, remunerados ou não; patrocinadores; e outros convidados) sigam este Código de Conduta em todos os locais da comunidade - online e presencial - bem como em todas as comunicações pessoais da comunidade o negócio.
+Esperamos que todos os participantes da comunidade (contribuintes, remunerados ou não; patrocinadores; e outros convidados) sigam este Código de Conduta em todos os locais da comunidade - online e presencial - bem como em todas as comunicações pessoais e profissionais da comunidade.
 
 Este código de conduta e seus procedimentos relacionados também se aplicam ao comportamento inaceitável que ocorre fora do escopo das atividades comunitárias, quando esse comportamento tem o potencial de afetar adversamente a segurança e o bem-estar dos membros da comunidade.
 
