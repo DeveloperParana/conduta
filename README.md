@@ -84,6 +84,8 @@ Práticas de cross-posting consideradas inadequadas incluem:
 * Cross-posting que leva a debates duplicados, fragmentados ou desnecessários, gerando confusão e dificultando o acompanhamento das discussões.
 * Utilizar cross-posting como meio de autopromoção repetitiva ou spam.
 
+Observação: Caso considere seu conteúdo relevante para toda a comunidade, entre em contato com um administrador para solicitar a criação de um anúncio que será compartilhado amplamente com todos os membros.
+
 ### 5. Consequências do Compartamento Inaceitável
 
 Comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
