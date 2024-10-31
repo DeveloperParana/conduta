@@ -75,6 +75,15 @@ O assédio inclui comentários verbais ofensivos relacionados a gênero, identid
 
 A fotografia é incentivada, mas os outros participantes devem ter uma chance razoável de não serem fotografados. Se eles se opuserem a tirar sua foto, cumpram com o pedido deles. É inadequado tirar fotografias em contextos em que as pessoas têm uma expectativa razoável de privacidade (nos banheiros ou onde os participantes estão dormindo, se aplicável).
 
+**4.3 Cross-Posting Inadequado**
+
+Cross-posting é o ato de publicar o mesmo conteúdo em múltiplas plataformas ou canais de comunicação simultaneamente. Embora o cross-posting possa ser uma ferramenta útil para disseminação de informações, ele deve ser utilizado de maneira criteriosa e responsável dentro da comunidade DevParaná. Cross-posting excessivo ou sem relevância pode resultar em sobrecarga de informações, distrações, e até mesmo incômodo aos membros da comunidade.
+
+Práticas de cross-posting consideradas inadequadas incluem:
+- Postar o mesmo conteúdo repetidamente em diferentes tópicos, canais, fóruns e grupos da comunidade, quando tal conteúdo não é diretamente relevante a cada um deles.
+- Cross-posting que leva a debates duplicados, fragmentados ou desnecessários, gerando confusão e dificultando o acompanhamento das discussões.
+- Utilizar cross-posting como meio de autopromoção repetitiva ou spam.
+
 ### 5. Consequências do Compartamento Inaceitável
 
 Comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
